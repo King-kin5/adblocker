@@ -3,6 +3,14 @@
   "name": "AdBlocker Pro",
   "version": "1.0.0",
   "description": "A powerful ad blocker extension for Chrome",
+  "author": "Techton10",
+  "homepage_url": "https://github.com/King-kin5/adblocker",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
   "permissions": [
     "storage",
     "declarativeNetRequest",

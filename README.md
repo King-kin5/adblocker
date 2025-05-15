@@ -18,7 +18,7 @@ A powerful Chrome extension designed to block ads, popups, trackers, and malware
 
 1. Clone this repository
    ```
-   git clone https://github.com/King_kin5/adblocker.git
+   git clone https://github.com/King-kin5/adblocker.git
    cd adblocker
    ```
 
